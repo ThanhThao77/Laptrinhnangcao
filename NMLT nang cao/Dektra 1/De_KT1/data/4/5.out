@@ -1,0 +1,8 @@
+cho so phan tu n = Nhap Ma SV: Nhap ten SV: Diem: Nhap Ma SV: Nhap ten SV: Diem: Hien thi danh sach:
+a2	Minh Dung	2
+a3	Mai Nhung	3.2
+Cho SV can them vao dau DS:
+MaSV: Ten: Diem: Hien thi danh sach:
+a4	Hoang Nhung	3
+a2	Minh Dung	2
+a3	Mai Nhung	3.2
